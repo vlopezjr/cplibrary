@@ -12,7 +12,7 @@ namespace cplibrary
         {
             get
             {
-                return "2.0.0";
+                return "2.5.0";
             }
         }
     }
